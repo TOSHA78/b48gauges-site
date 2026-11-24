@@ -1,0 +1,23 @@
+{
+  "name": "B48 Gauges",
+  "short_name": "B48 Gauges",
+  "start_url": "./index.html",
+  "display": "browser",
+  "background_color": "#101214",
+  "theme_color": "#101214",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
