@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tosha78.github.io/b48gauges-site/sitemap.xml
